@@ -78,7 +78,10 @@ streamlit run app/streamlit_app.py
 ---
 
 ## Contributors
-- **Augustus Mathew** – Lead Developer & Cybersecurity Engineer
+- **Augustus Mathew**
+- **Anjitha Sivakumar**
+- **Namitha raveendran**
+- **Navaras p**
 
 ---
 
